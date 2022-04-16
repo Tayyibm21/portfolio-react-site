@@ -73,7 +73,7 @@ const Portfolio = memo(({ refs }) => {
             <div className="picture-area">
               <img src={note} alt="죄송합니다 이미지를 불러오지 못했습니다." />
             </div>
-            <div className="title">CLI | ECOMMERCE BACKEND</div>  
+            <div className="title">ECOMMERCE BACKEND</div>  
             <div className="contents">
             Built the back end for an e-commerce site. Configured a working Express.js API to use Sequelize to interact with a MySQL database.
               <br />
@@ -102,7 +102,7 @@ const Portfolio = memo(({ refs }) => {
                 alt="죄송합니다 이미지를 불러오지 못했습니다."
               />
             </div>
-            <div className="title">CLI | EMPLOYEE MANAGEMENT SYSTEM</div>
+            <div className="title">EMPLOYEE MANAGEMENT SYSTEM</div>
             <div className="contents">
             Node.js command line-based employee management system with commands to add and manage Employees, Roles and Departments.
               <br />  <br />
