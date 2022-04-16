@@ -14,7 +14,7 @@ const Navbar = memo(({ handleScroll }) => {
     <>
       <header>
         <nav className="navbar">
-          <div className="navbar__logo">Mahmoud Cali 💻</div>
+          <div className="navbar__logo">Tayyib Mahmood 💻</div>
 
           <ul className="navbar__menu">
             <li>
