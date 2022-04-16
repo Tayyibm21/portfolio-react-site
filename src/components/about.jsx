@@ -26,14 +26,14 @@ const About = memo(({ refs }) => {
           <b className="info-title">Full Stack Software Developer</b>
           <div className="info">
             <br />
-            An enthusiastic Full Stack Software Developer with a keen interest in technology and business as well as a high level of experience in software development, leveraging background in customer service. <br /><br />
+            An enthusiastic Full Stack Software Developer with a strong interest in technology and business, as well as extensive software development experience and a customer service background. <br /><br />
             Equipped with a Full Stack Software Developer certification from University of Birmingham and honed skills in HTML, CSS, JavaScript, React.js and Node.js <br /><br />
-            A logical problem solver who has consistently identified and fixed defects, maximising development and reducing risk and uncertainty.
+            A rational problem solver who has consistently found and corrected problems, maximising development while lowering risk and uncertainty.
           </div>
           <ul>
             <li>
               <div className="info-li">
-                <IoPerson className="icon" /> 07742753765
+                <IoPerson className="icon" /> 07365798261
               </div>
             </li>
             <li>
@@ -43,7 +43,7 @@ const About = memo(({ refs }) => {
             </li>
             <li>
               <div className="info-li">
-                <IoMailSharp className="icon" /> mahmoudcali2@gmail.com
+                <IoMailSharp className="icon" /> Tayyibmahmood2001@outlook.com
               </div>
             </li>
             <li>

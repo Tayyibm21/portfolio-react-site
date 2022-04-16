@@ -25,13 +25,13 @@ const Portfolio = memo(({ refs }) => {
             </div> 
             <a
               className="button"
-              href="https://mahmoudcali02.github.io/secure-password-generator/#index.html"
+              href="https://tayyibm21.github.io/javascript-fixing-code/"
             >
               Demo
             </a>
             <a
               className="button"
-              href="https://github.com/Mahmoudcali02/secure-password-generator"
+              href="https://github.com/Tayyibm21/javascript-fixing-code"
             >
               Repository
             </a>
@@ -45,23 +45,24 @@ const Portfolio = memo(({ refs }) => {
                 alt="죄송합니다 이미지를 불러오지 못했습니다."
               />
             </div>
-            <div className="title">Languigi | Translator</div>
+            <div className="title">Weather app</div>
             <div className="contents">
-            An application that allows users to translate their favorite phrases into the most popular languages in an instant.
+            This application will allow the user to search for the weather in locations of there choice.
               <br />
               <br />
-              Tech Utilised: HTML, CSS, JavaScript, API
+              Tech Utilised: HTML, CSS, JavaScript
             </div>
             
             <a
               className="button"
-              href="https://a89ball.github.io/Translator/"
+              href="https://tayyibm21.github.io/weather-app/"
             >
             Demo
             </a>
             <a
               className="button"
-              href="https://github.com/a89ball/Translator"
+              href="https://github.com/Tayyibm21/weather-app
+              "
             >
             Repository
             </a>
@@ -81,13 +82,13 @@ const Portfolio = memo(({ refs }) => {
             </div>
             <a
               className="button"
-              href="https://drive.google.com/file/d/1XsefJRKRF3JIEdtK-2C9tJiSOEKSnETj/view?usp=sharing"
+              href=" https://drive.google.com/file/d/1XsefJRKRF3JIEdtK-2C9tJiSOEKSnETj/view?usp=sharing"
             >
               Demo
             </a>
             <a
               className="button"
-              href="https://github.com/Mahmoudcali02/ecommerce-backend-HW13"
+              href="https://github.com/Tayyibm21/E-commerce-backend/tree/dev"
             >
               Repository
             </a>
@@ -107,10 +108,11 @@ const Portfolio = memo(({ refs }) => {
               <br />  <br />
               Tech Utilised: Node.js, Express.js, MySQL
             </div>
-            <a className="button" href="https://drive.google.com/file/d/1nQyomj_KaaGxWQFMjNgRd6hHMRmwu7dL/view?usp=sharing">
+            <a className="button" href="https://drive.google.com/file/d/1qHT-aHTJVsA09oEqTTS4RNp1G_07H48-/view?usp=sharing">
               Demo
             </a>
-            <a className="button" href="https://github.com/Mahmoudcali02/the-employee-tracker">
+            <a className="button" href="https://github.com/Tayyibm21/employee-tracker/tree/dev
+">
               Repository
             </a>
           </div>
@@ -128,13 +130,14 @@ const Portfolio = memo(({ refs }) => {
             </div>{" "}
             <a
               className="button"
-              href="https://drive.google.com/file/d/1Y_TJ_TQbjFeRc3BUzXB2Wa-5fsJ61uLu/view?usp=sharings"
+              href="https://watch.screencastify.com/v/pRSKSNkPmgIDJfeBlh4z"
             >
               Demo
             </a>
             <a
               className="button"
-              href="https://github.com/Mahmoudcali02/random-team-generator-hw10"
+              href="https://github.com/Tayyibm21/team-builder/tree/dev
+              "
             >
               Repository
             </a>
@@ -145,19 +148,19 @@ const Portfolio = memo(({ refs }) => {
             <div className="picture-area">
               <img src={popol} alt="죄송합니다 이미지를 불러오지 못했습니다." />
             </div>
-            <div className="title">GREEN-COUNTRY-HOSPITAL</div>
+            <div className="title">Day planner</div>
             <div className="contents">
-            A complete responsive hospital website design using html css and vanilla javascript.<br />
+            The user will be able to schedule and save there plans for the up coming weeks.<br />
               <br />
               <br /> Tech Utilised: HTML, CSS, JavaScript
             </div>
             <a
               className="button"
-              href="https://mahmoudcali02.github.io/green-country-hospital/#index.html"
+              href="https://tayyibm21.github.io/Day-planner/"
             >
               Demo
             </a>
-            <a className="button" href="https://github.com/Mahmoudcali02/green-country-hospital">
+            <a className="button" href="https://github.com/Tayyibm21/Day-planner">
               Repository
             </a>
           </div>

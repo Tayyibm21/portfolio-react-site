@@ -12,10 +12,10 @@ const Footer = memo(({ handleScroll }) => {
         <button onClick={() => handleScroll()} className="topButton">
           <IoArrowUp />
         </button>
-        <a href="https://www.linkedin.com/in/mahmoud-cali-115ba1211/">
+        <a href="https://www.linkedin.com/in/tayyib-mahmood-07b8a121b/">
           <Linkedin color="#000" size={30} />
         </a>
-        <a href="https://github.com/Mahmoudcali02">
+        <a href="https://github.com/Tayyibm21">
           <Github color="#000" size={30} />
         </a>
       </div>
