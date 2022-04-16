@@ -73,7 +73,7 @@ const Portfolio = memo(({ refs }) => {
             <div className="picture-area">
               <img src={note} alt="죄송합니다 이미지를 불러오지 못했습니다." />
             </div>
-            <div className="title">ECOMMERCE BACKEND</div>  
+            <div className="title">E-COMMERCE BACKEND</div>  
             <div className="contents">
             Built the back end for an e-commerce site. Configured a working Express.js API to use Sequelize to interact with a MySQL database.
               <br />
@@ -122,7 +122,7 @@ const Portfolio = memo(({ refs }) => {
             <div className="picture-area">
               <img src={paint} alt="죄송합니다 이미지를 불러오지 못했습니다." />
             </div>
-            <div className="title">RANDOM EMPLOYEE PROFILE GENERATOR</div>
+            <div className="title">EMPLOYEE PROFILE GENERATOR</div>
             <div className="contents">
             A node.js employee profile generator that allows you to generate a static HTML website with team data shown in cards. <br />
               <br /> 
